@@ -30,3 +30,7 @@
 ## components
 [月](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/月.png)
 [也](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/也.png)
+[牛](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/牛.png)
+[勺](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/勺.png)
+[戈](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/戈.png)
+[尤](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/尤.png)
