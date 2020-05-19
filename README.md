@@ -34,3 +34,4 @@
 [勺](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/勺.png)
 [戈](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/戈.png)
 [尤](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/尤.png)
+[口](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/口.png)
