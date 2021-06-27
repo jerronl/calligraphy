@@ -12,6 +12,8 @@
 
 20个字是考核。要在两分钟以内尽力用以前练的办法把每一个字都写好。你以前有一些字写得挺好的，既然掌握了就不要退步，让以前的努力白费
 
+字要写在一条横线上不能高高低低，字之间要有空隙不能挤在一起，行之间的空隙要更大一些。横一般要左低右高有动感，竖一般要和基线垂直保持字的稳定。田英章的很多字都有一个显著很长的笔画，要注意把这个体现出来。
+
 ## strokes
 [横](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/%E6%A8%AA.png) [竖](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/竖.png) [撇](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/撇.png) [捺](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/捺.png) [钩](https://raw.githubusercontent.com/jerronl/calligraphy/master/pngs/钩.png)
 
